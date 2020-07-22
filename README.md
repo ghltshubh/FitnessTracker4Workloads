@@ -12,4 +12,8 @@
     1. Data visualization: Interactive data visualizations are created using python bokeh library. Currently total read / write  (STDIO and POSIX) data for each project is being visualized.
     2. Serve Visualization: Bokeh library is used to host and serve these  visualizations as well.
 
+**NOTE:** Current screenshots show dummy data.
 
+![top view](https://github.com/ghltshubh/fitbit4workloads/blob/master/img_2.png?raw=true)
+
+![bottom view](https://github.com/ghltshubh/fitbit4workloads/blob/master/img_1.png?raw=true) 
