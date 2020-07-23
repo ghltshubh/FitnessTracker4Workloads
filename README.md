@@ -16,4 +16,7 @@
 
 ![top view](https://github.com/ghltshubh/fitbit4workloads/blob/master/img_2.png?raw=true)
 
-![bottom view](https://github.com/ghltshubh/fitbit4workloads/blob/master/img_1.png?raw=true) 
+![bottom view](https://github.com/ghltshubh/fitbit4workloads/blob/master/img_1.png?raw=true)
+
+**TO DO**
+-	Implement Datashader for code optimization and improve load times. 
